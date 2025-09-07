@@ -44,11 +44,11 @@ Dengan memanfaatkan model machine learning berbasis NLP, AI mengklasifikasikan k
 
 Algoritma klasifikasi membantu mempercepat analisis ribuan komentar tanpa harus dibaca manual.
 
-#### Feature Extraction & Visualization
+#### Visualization
 
 AI digunakan untuk mengekstrak kata kunci dominan dalam tiap kategori sentimen.
 
-Hasilnya divisualisasikan dalam bentuk grafik pie untuk distribusi sentimen dan wordcloud untuk kata kunci.
+Hasilnya divisualisasikan dalam bentuk grafik pie.
 
 #### Insight Generation
 
